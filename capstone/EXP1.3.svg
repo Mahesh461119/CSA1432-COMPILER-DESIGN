@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="430" viewBox="0 0 430 430">
+
+<rect x="2" y="2" width="426" height="428" rx="28"
+      fill="#F0FDF4" stroke="#16A34A" stroke-width="3"/>
+
+<rect x="2" y="2" width="426" height="75" rx="28"
+      fill="#16A34A"/>
+
+<rect x="2" y="48" width="426" height="29"
+      fill="#16A34A"/>
+
+<text x="215" y="48"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="24"
+      font-weight="700"
+      fill="white">
+FOREIGN NETWORK
+</text>
+
+<rect x="35" y="105" width="360" height="75" rx="15"
+      fill="white" stroke="#BBF7D0" stroke-width="2"/>
+
+<text x="215" y="135"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="18"
+      font-weight="700"
+      fill="#15803D">
+FOREIGN AGENT (FA)
+</text>
+
+<text x="215" y="160"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="13"
+      fill="#64748B">
+Provides access in Foreign Network
+</text>
+
+<rect x="35" y="200" width="360" height="75" rx="15"
+      fill="white" stroke="#BBF7D0" stroke-width="2"/>
+
+<text x="215" y="230"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="18"
+      font-weight="700"
+      fill="#15803D">
+CARE-OF ADDRESS (CoA)
+</text>
+
+<text x="215" y="255"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="13"
+      fill="#64748B">
+Temporary address of Mobile Node
+</text>
+
+<rect x="35" y="295" width="360" height="95" rx="15"
+      fill="white" stroke="#BBF7D0" stroke-width="2"/>
+
+<text x="215" y="328"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="18"
+      font-weight="700"
+      fill="#15803D">
+MOBILE NODE (MN)
+</text>
+
+<text x="215" y="353"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="13"
+      fill="#64748B">
+Receives tunneled packets
+</text>
+
+<text x="215" y="375"
+      text-anchor="middle"
+      font-family="Arial"
+      font-size="12"
+      font-weight="700"
+      fill="#16A34A">
+NEW LOCATION
+</text>
+
+</svg>
